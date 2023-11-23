@@ -73,3 +73,8 @@ plt.legend()
 
 plt.tight_layout()
 plt.show()
+
+
+a = 3+3
+print(a)
+print("Тестовая работа с Git")
